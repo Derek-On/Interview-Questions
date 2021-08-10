@@ -27,7 +27,7 @@
 14. How Would You Evaluate And Examine Our Existing Systems To Suggest The Scope Of Improvement?
 
 15. How Do You Plan And Prioritize Your Work?
-
+I use a calendar to keep track of any ongoing projects.
 16. Have You Modified A System To Enhance Its Workflow? Share Your Experience.
 
 17. What Is Client-Server Architecture?
