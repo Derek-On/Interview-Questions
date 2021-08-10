@@ -1,6 +1,8 @@
 1) Mention what is the responsibility of a Data analyst?
+To analyse data to study it and find trends and other information for either public or private use.
 
 2) What is required to become a data analyst?
+An ability to parse data, and the abilit to learn
 
 3) Mention what are the various steps in an analytics project?
 
