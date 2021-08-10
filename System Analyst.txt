@@ -1,4 +1,5 @@
 1. According To You, What Is The Basic Role Of A Computer System Analyst?
+To analyse a given computer system to find out information about it, such as specifications, or to see if the system has any faults, or to see if it meets requirements.
 
 2. Can You Share Some Of Your Experience In The Most Recent Computer Programming Projects?
 
@@ -7,6 +8,7 @@
 4. How Will You Differentiate Between Functional And Non-Functional Requirements?
 
 5. Have You Ever Been Asked To Design A New System With Limited Resources? Walk Me Through It.
+No
 
 6. How Do You Deal With Frequent Changes In User Requirements?
 
@@ -15,6 +17,7 @@
 8. Are You Aware Of The Requirements That A System Analyst Should Gather And Analyze?
 
 9. Have You Ever Devised A Flowchart Or Diagram To Describe The Logical Operational Steps Of A Program?
+No
 
 10. What Should A System Analyst Document?
 
